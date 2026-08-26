@@ -9,6 +9,7 @@
 /wayfared
 /ladder
 
+temp_auto_push.bat
 # Test and coverage artifacts
 *.out
 coverage.html
@@ -21,3 +22,5 @@ coverage.html
 
 # Claude Code local overrides (personal, not shared)
 .claude/settings.local.json
+.gitignore
+branch_structure.json
